@@ -1,12 +1,10 @@
 # MarsRoverAlgorithm
 
 Plateau Coordinate :  5 5  
+
 First Vehicle :  
 Vehicle Coordinate : 1 2 N  
 Vehicle Commands : LMLMLMLMM  
-Second Vehicle :   
-Vehicle Coordinate : 3 3 E  
-Vehicle Commands : MMRMMRMRRM  
 
 Expected Output :  
 First Vehicle Detail :  
@@ -16,6 +14,11 @@ First Vehicle Detail :
 1 2 N  
 1 3 N  
 First Vehicle Result : 1 3 N  
+
+Second Vehicle :   
+Vehicle Coordinate : 3 3 E  
+Vehicle Commands : MMRMMRMRRM  
+
 Second Vehicle Detail :  
 4 3 E  
 5 3 E  
