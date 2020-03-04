@@ -42,9 +42,9 @@ namespace MarsRoverAlgorithm.Models
         {
             for (int i = 0; i < commands.Length; i++)
             {
-                if (commands[i] == 'L') {GoLeft();}
-                else if (commands[i] == 'R') {GoRight();}
-                else if (commands[i] == 'M') {GoForward();}
+                if (commands[i] == 'L') GoLeft();
+                else if (commands[i] == 'R') GoRight();
+                else if (commands[i] == 'M') GoForward();
                 else DontMove();
             }
         }
