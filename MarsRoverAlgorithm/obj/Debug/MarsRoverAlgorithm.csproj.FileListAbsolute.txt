@@ -1,0 +1,5 @@
+C:\Users\kayak\source\repos\MarsRoverAlgorithm\MarsRoverAlgorithm\bin\Debug\MarsRoverAlgorithm.exe.config
+C:\Users\kayak\source\repos\MarsRoverAlgorithm\MarsRoverAlgorithm\bin\Debug\MarsRoverAlgorithm.exe
+C:\Users\kayak\source\repos\MarsRoverAlgorithm\MarsRoverAlgorithm\bin\Debug\MarsRoverAlgorithm.pdb
+C:\Users\kayak\source\repos\MarsRoverAlgorithm\MarsRoverAlgorithm\obj\Debug\MarsRoverAlgorithm.exe
+C:\Users\kayak\source\repos\MarsRoverAlgorithm\MarsRoverAlgorithm\obj\Debug\MarsRoverAlgorithm.pdb
